@@ -14,7 +14,6 @@ This project provides a Streamlit-based dashboard for diabetes prediction and an
 1. **Load the .tar file with Docker Image:**
    ```
      docker load -i streamlit-app.tar
-
    ```
 2. Verify Docker image:
    ```
